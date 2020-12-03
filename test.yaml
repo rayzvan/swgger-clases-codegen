@@ -1,0 +1,14 @@
+components:
+  schemas:
+    testSchema:
+      type: object
+      description: sdsadfsdfsdsfasf
+      required:
+        - first
+      properties:
+        first:
+          type: string
+        isAlaive:
+          type: string
+        anotherOne:
+          type: string
